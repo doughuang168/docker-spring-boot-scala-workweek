@@ -39,7 +39,7 @@ Response JSON:
 To see the dynamic nature of WebService being used. I implement a simple AngularJS directive as the WebService consumer.
 
 
-You can see the demo at [Azure Cloud](http://micro-service.cloudapp.net:8080) or [AWS](http://http://ec2-54-213-146-147.us-west-2.compute.amazonaws.com:8080/)
+You can see the demo at [Azure Cloud](http://micro-service.cloudapp.net:8080) or [AWS](http://ec2-54-213-146-147.us-west-2.compute.amazonaws.com:8080)
 
 
 
