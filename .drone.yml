@@ -1,4 +1,4 @@
 build:
-  image: golang
+  image: dockerfile/java:oracle-java8
   commands:
     - ./gradlew build
