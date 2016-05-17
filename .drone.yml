@@ -1,4 +1,4 @@
 build:
-  image: dockerfile/java:oracle-java8
+  image: java:8
   commands:
     - ./gradlew build
