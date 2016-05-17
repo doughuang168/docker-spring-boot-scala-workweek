@@ -1,0 +1,4 @@
+build:
+  image: oraclejdk8
+  commands:
+    - ./gradlew build
