@@ -1,4 +1,4 @@
-# docker-spring-boot-scala-workweek 
+# docker-spring-boot-scala-workweek   
 Simple RESTful API implementation using Spring Boot plus Scala in Public cloud
 ## Welcome to Workweek RESTful API ##
 
